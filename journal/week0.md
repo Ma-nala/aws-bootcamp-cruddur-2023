@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-#Logical Diagram
+# Logical Diagram
 
 <img width="971" alt="image" src="https://user-images.githubusercontent.com/117898348/220112056-9a0eb17e-8700-44b0-a84d-c9eadaa8d49e.png">
 
